@@ -1,7 +1,10 @@
-0.11 -- Fri Jul 10 14:23:56 CDT 2009
+Revision history for Perl extension MojoX-Renderer-JSON
 
-  * Add support to specify encoder to use (Adriano Ferreira)
+0.02 2013-09-29T06:48:05Z
 
-0.10 -- Thu Nov 27 21:15:15 CDT 2009
+    - no changes
 
-  * Initial Release
+0.01 2013-09-29T06:37:56Z
+
+    - original version
+
